@@ -2,7 +2,7 @@
 ## Requisito de Implementação: Barra de Pesquisa com Sugestões de Auto Completar.
 
 
-## Resumo
+# Resumo
 # Cor do Site:
 O fundo do site é Roxo.
 # Estrutura HTML:
