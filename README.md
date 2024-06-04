@@ -18,9 +18,9 @@ JavaScript para Auto Completar:
 * Exibir dinamicamente uma lista de sugestões que correspondam ao texto inserido pelo usuário.
 * Permitir que o usuário selecione uma sugestão clicando nela, preenchendo automaticamente o campo de pesquisa com a sugestão selecionada.
 # Responsividade e Acessibilidade:
-Responsividade:
+## Responsividade:
 Garanti que a barra de pesquisa se adapte a diferentes tamanhos de tela e dispositivos.
-Acessibilidade:
+## Acessibilidade:
 * Fornecer alternativas de conteúdo ou feedbacks visuais para usuários que não podem ou preferem não usar JavaScript.
 # Teste e Validação:
 Testei a barra de pesquisa em diferentes navegadores e dispositivos.
